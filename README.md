@@ -18,7 +18,7 @@ call logs, customer feedback, performance metrics, total calls answered and 
 
 # Process
 ✔ Extraction: The extraction of the data has been done from prepared CSV file. The CSV file has been converted to .xls file for usability. 
-✔ Transformation: The initial transformation has been done in Excel workbook(.xls) itself.
+ ✔ Transformation: The initial transformation has been done in Excel workbook(.xls) itself.
 ✔ Load: Later the final part of the transformation has been done in Power Bi.
 
 # Mentioned KPIs (Key Performance Indicators)
