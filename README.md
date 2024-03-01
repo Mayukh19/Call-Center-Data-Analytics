@@ -13,13 +13,14 @@ Let's dive into the world of call center optimization!\
 
 # Data Collection
 Accurate and comprehensive data collection is essential for an effective analytics approach.\ 
+
 For this approach, the followimg data has been utilized:\
 call logs, customer feedback, performance metrics, total calls answered and abandoned, speed of answer, length of calls, etc.  to gain valuable insights into call center operations.
 
 # Process
 ✔ Extraction: The extraction of the data has been done from prepared CSV file. The CSV file has been converted to .xls file for usability.\
 ✔ Transformation: The initial transformation has been done in Excel workbook(.xls) itself.\
-✔ Load: Later the final part of the transformation has been done in Power Bi.\
+✔ Load: Later the final part of the transformation has been done in Power Bi.
 
 # Mentioned KPIs (Key Performance Indicators)
 ✔ Overall customer satisfaction\
@@ -35,14 +36,14 @@ call logs, customer feedback, performance metrics, total calls answered and 
 This shows that:\
 ✔ Jim has answered most of the calls.\
 ✔ Especially in Contract related topic.\ 
-✔ Having a majority of rating of 3.
+✔ Having a majority of rating of 3.\
 
 ![image](https://github.com/Mayukh19/Call-Center-Data-Analytics/assets/119560255/063c5229-4fad-4f9a-a857-646896117416)
 
 This shows that:\
 ✔ Stewart has the least answered calls.\
 ✔ In Streaming topic.\
-✔ With majority rating of 4.
+✔ With majority rating of 4.\
 
 ![image](https://github.com/Mayukh19/Call-Center-Data-Analytics/assets/119560255/009356b5-0474-46eb-b433-c16f37587cc9)
 
