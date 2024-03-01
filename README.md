@@ -5,7 +5,7 @@
 # Background
 Call Center Performance using Data Analytics.\
 This dashbaord will explore insights about the Agents Performance Quadrant and Long-term Customer Trends.\
-Let's dive into the world of call center optimization!\
+Let's dive into the world of call center optimization!
 
 # Aim
 ✔ Transparency and Insight of the Call Centre Data.\
