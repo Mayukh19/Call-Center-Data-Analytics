@@ -17,16 +17,16 @@ For this approach, the followimg data has been utilized:
 call logs, customer feedback, performance metrics, total calls answered and abandoned, speed of answer, length of calls, etc.  to gain valuable insights into call center operations.
 
 # Process
-✔ Extraction: The extraction of the data has been done from prepared CSV file. The CSV file has been converted to .xls file for usability. 
- ✔ Transformation: The initial transformation has been done in Excel workbook(.xls) itself.
-✔ Load: Later the final part of the transformation has been done in Power Bi.
+✔ Extraction: The extraction of the data has been done from prepared CSV file. The CSV file has been converted to .xls file for usability.\
+✔ Transformation: The initial transformation has been done in Excel workbook(.xls) itself.\
+✔ Load: Later the final part of the transformation has been done in Power Bi.\
 
 # Mentioned KPIs (Key Performance Indicators)
-✔ Overall customer satisfaction
-✔ Overall calls answered/abandoned
-✔ Calls by time
-✔ Average speed of answer
-✔ Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
+✔ Overall customer satisfaction\
+✔ Overall calls answered/abandoned\
+✔ Calls by time\
+✔ Average speed of answer\
+✔ Agent’s performance quadrant -> average handle time (talk duration) vs calls answered\
 
 # Insights
 
