@@ -35,7 +35,7 @@ call logs, customer feedback, performance metrics, total calls answered and 
 
 This shows that:\
 ✔ Jim has answered most of the calls.\
-✔ Especially in Contract related topic.\ 
+✔ Especially in Contract related topic.\
 ✔ Having a majority of rating of 3.
 
 ![image](https://github.com/Mayukh19/Call-Center-Data-Analytics/assets/119560255/063c5229-4fad-4f9a-a857-646896117416)
