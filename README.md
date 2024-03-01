@@ -9,7 +9,7 @@ Let's dive into the world of call center optimization!\
 
 # Aim
 ✔ Transparency and Insight of the Call Centre Data.\
-✔ Visual representation of the data.\
+✔ Visual representation of the data.
 
 # Data Collection
 Accurate and comprehensive data collection is essential for an effective analytics approach.\ 
@@ -26,7 +26,7 @@ call logs, customer feedback, performance metrics, total calls answered and 
 ✔ Overall calls answered/abandoned\
 ✔ Calls by time\
 ✔ Average speed of answer\
-✔ Agent’s performance quadrant -> average handle time (talk duration) vs calls answered\
+✔ Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
 # Insights
 
@@ -35,21 +35,21 @@ call logs, customer feedback, performance metrics, total calls answered and 
 This shows that:\
 ✔ Jim has answered most of the calls.\
 ✔ Especially in Contract related topic.\ 
-✔ Having a majority of rating of 3.\
+✔ Having a majority of rating of 3.
 
 ![image](https://github.com/Mayukh19/Call-Center-Data-Analytics/assets/119560255/063c5229-4fad-4f9a-a857-646896117416)
 
 This shows that:\
 ✔ Stewart has the least answered calls.\
 ✔ In Streaming topic.\
-✔ With majority rating of 4.\
+✔ With majority rating of 4.
 
 ![image](https://github.com/Mayukh19/Call-Center-Data-Analytics/assets/119560255/009356b5-0474-46eb-b433-c16f37587cc9)
 
 This shows that:\
 ✔ Becky has the least rating of 1.\
 ✔ In Streaming topic.\
-✔ And average speed of answering is 56.19 secs.\
+✔ And average speed of answering is 56.19 secs.
 
 # Summary
 ✔ Stewart needs proper training on Streaming domian.\
